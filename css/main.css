@@ -23,4 +23,21 @@ body {
 section {
   background-color: #e5c30a;
   margin: 0;
+  padding: 1.3rem;
+}
+
+.letter {
+  max-width: 45em;
+  width: 100%;
+}
+
+.content {
+  display: inline-block;
+}
+
+.dragon {
+  max-width: 45em;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
